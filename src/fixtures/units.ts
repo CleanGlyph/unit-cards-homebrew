@@ -30,6 +30,14 @@ export const unitAncestries: UnitAncestry[] = [
   'Treant',
   'Troll',
   'Zombie',
+  'Imps',
+  'Shadow Dog',
+  'Shadow',
+  'Wraith',
+  'Celestial',
+  'Fungal',
+  'Fey',
+  'Demons',
 ];
 export const unitTypes: UnitType[] = [
   'Flying',
@@ -54,9 +62,9 @@ export const unitEquipments: UnitEquipment[] = [
   'Heavy',
   'Super-Heavy',
 ];
-export const unitSizes: UnitSize[] = ['d4', 'd6', 'd8', 'd10', 'd12'];
+export const unitSizes: UnitSize[] = ['d2', 'd3', 'd4', 'd6', 'd8', 'd10', 'd12'];
 export const fortLevels: FortLevel[] = ['1st', '2nd', '3rd', '4th', '5th'];
-export const fortTypes: FortType[] = ['None', 'Keep', 'Tower', 'Temple'];
+export const fortTypes: FortType[] = ['None', 'Walls', 'Keep', 'Tower', 'Temple'];
 
 export const flagTypes: { [k: string]: FlagType } = {
   Bugbear: 'Goblinoid',
@@ -78,5 +86,13 @@ export const flagTypes: { [k: string]: FlagType } = {
   Treant: 'Special',
   Troll: 'Monsterous',
   Zombie: 'Undead',
+  Imps: 'Undead',
+  'Shadow Dog': 'Undead',
+  Shadow: 'Undead',
+  Wraith: 'Undead',
+  Celestial: 'Special',
+  Fungal: 'Fungal',
+  Fey: 'Fungal',
+  Demons: 'Undead',
   None: 'Special',
 };
