@@ -17,4 +17,13 @@ export type Trait =
   | 'Undead'
   | 'Charge'
   | 'Always Diminished'
-  | 'Siege Engine';
+  | 'Siege Engine'
+  | 'Annoying'
+  | 'Tiny'
+  | 'Slippery'
+  | 'Incomporial'
+  | 'Titian Attack'
+  | 'Priest'
+  | 'Priest Titain'
+  | 'Ensnare Soul'
+  | 'Horrify Necrotic';

@@ -122,4 +122,59 @@ export const traitData: TraitData[] = [
       'This unit can attack fortifications, dealing 1d6 damage on a hit.',
     cost: 0,
   },
+  {
+    name: 'Annoying',
+    cost: 0,
+    description:
+      'Advantage on morale checks.',
+  },
+  {
+    name: 'Tiny',
+    cost: 0,
+    description:
+      "Can occupy otherwise awkward positions, and dont cause friendly unit moral checks on damage.",
+  },
+  {
+    name: 'Slippery',
+    cost: 0,
+    description:
+      "It can cause opponent to re-roll power check on successfull attack each, can be done for each level a unit has encounter ",
+  },
+  {
+    name: 'Incomporial',
+    cost: 250,
+    description:
+      'Unit can directly attack units in fortifications and towers',
+  },
+  {
+    name: 'Titian Attack',
+    cost: 250,
+    description:
+      'If this unit succeeds on an attack check, it inflicts casualties by how big the difference it won by on the power. Against fortifications, it inflicts 1d4 casualties.',
+  },
+  {
+    name: 'Horrify Necrotic',
+    cost: 250,
+    description:
+      'If this unit inflicts a casualty on an enemy necrotic unit in the day or light, that unit must make a dc 15 morale check. Failure exhausts the unit.',
+  },
+
+  {
+    name: 'Priest',
+    cost: 50,
+    description:
+      'Can Spend a turn healing for its 1 to an alligned energy ally unit',
+  },
+  {
+    name: 'Priest Titain',
+    cost: 250,
+    description:
+      'Can Spend a turn healing for its 1d4 to an alligned energy ally unit',
+  },
+  {
+    name: 'Ensnare Soul',
+    cost: 500,
+    description:
+      'When this unit can summon 1d4 size of its favoured unit every 2 damage done',
+  },
 ];
