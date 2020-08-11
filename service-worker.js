@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unit-cards-homebrew/precache-manifest.0c936a1fbdd20129d337c4cf3040f3d5.js"
+  "/unit-cards-homebrew/precache-manifest.ddd18aa52b718fbc634fbee599c647c9.js"
 );
 
 self.addEventListener('message', (event) => {
