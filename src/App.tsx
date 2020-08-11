@@ -275,7 +275,8 @@ class App extends Component<{}, State> {
     return (
       <div className="container text-center">
         <h1>
-          <small>Strongholds & Followers</small>
+          <small>Strongholds & Followers: God Wars Homebrew</small>
+          <small>probably broken stats edition</small>
           <br />
           Unit Card Creator
         </h1>

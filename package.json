@@ -1,5 +1,5 @@
 {
-  "name": "unit-cards",
+  "name": "unit-cards-homebrew",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +37,5 @@
   "devDependencies": {
     "gh-pages": "^2.0.1"
   },
-  "homepage": "http://freddybushboy.github.io/unit-cards"
+  "homepage": "https://ladyfern.github.io/unit-cards-homebrew/"
 }
