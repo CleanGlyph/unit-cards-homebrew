@@ -3,7 +3,7 @@ Unit Card creator for Matt Colville's [Strongholds & Followers](https://shop.mcd
 [Original!](https://freddybushboy.github.io/unit-cards/)
 
 
-[Live Site](https://ladyfern.github.io/unit-cards-homebrew/)
+[Live Site](https://cleanglyph.github.io/unit-cards-homebrew/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
